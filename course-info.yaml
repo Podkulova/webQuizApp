@@ -1,0 +1,18 @@
+type: hyperskill
+title: Web Quiz Engine with Java
+language: English
+summary: "<p>In the Internet, you can often find sites where you need to answer some\
+  \ questions. It can be educational sites, sites with psychological tests, job search\
+  \ services, or just entertaining sites like web quests. The common thing for them\
+  \ is the ability to answer questions (or quizzes) and then see some results. In\
+  \ this project, you will create a complex web service and\_learn about REST API,\
+  \ an embedded database, security, and other technologies. If you would like to continue\
+  \ the project, you could develop a web or mobile client for this web service on\
+  \ your own.\_</p><br/><br/>Learn more at <a href=\"https://hyperskill.org/projects/91?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
+  >https://hyperskill.org/projects/91</a>"
+programming_language: Java
+programming_language_version: 11
+content:
+  - Topics
+  - Web Quiz Engine with Java
+mode: Study

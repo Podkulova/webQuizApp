@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: src/engine/WebQuizEngine.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/tests/WebQuizEngineTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8257#comment
+status: Unchecked
+record: -1

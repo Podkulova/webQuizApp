@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: src/engine/WebQuizEngine.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: test/tests/WebQuizEngineTest.java
+    visible: false
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: src/engine/model/Quiz.java
+    visible: true
+    learner_created: true
+  - name: src/engine/controller/QuizController.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8252#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 30 May 2024 16:33:30 UTC"
+record: 1
